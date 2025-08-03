@@ -7,9 +7,7 @@
       "key": "KEY-QPEN-56ME-JGHE",
       "description": "Ключ для тестирования на другом устройстве",
       "expiry_date": null,
-      "activated_devices": [
-        "3aa79fdaeec3b804"
-      ],
+      "activated_devices": [ ],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-03T14:31:31.835969+00:00",
