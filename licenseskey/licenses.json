@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-03T12:39:24.079529+00:00",
+  "last_updated": "2025-08-03T12:41:07.059170+00:00",
   "one_time_keys": [
     {
       "key": "DEMO-M0KI-FJGD-LWBV",
@@ -18,7 +18,9 @@
       "key": "DEMO-6DSS-SLLJ-G21E",
       "description": "Ключ для клиента Иванова",
       "expiry_date": "2025-09-02T12:39:24.079529+00:00",
-      "activated_devices": [],
+      "activated_devices": [
+        "94bf5828bfd73b98"
+      ],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-03T12:39:24.079529+00:00"
