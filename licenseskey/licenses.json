@@ -1,8 +1,18 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-03T15:01:15.311865",
-  "one_time_keys": [],
+  "last_updated": "2025-08-03T12:35:19.388792+00:00",
+  "one_time_keys": [
+    {
+      "key": "DEMO-M0KI-FJGD-LWBV",
+      "description": "Тестовый ключ для демонстрации",
+      "expiry_date": "2025-08-10T12:35:19.388792+00:00",
+      "activated_devices": [],
+      "max_activations": 1,
+      "type": "demo",
+      "created_date": "2025-08-03T12:35:19.388792+00:00"
+    }
+  ],
   "legacy_keys": {
     "valid_keys": [],
     "description": "Старые ключи для обратной совместимости"
