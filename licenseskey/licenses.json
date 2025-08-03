@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-03T14:20:25.927289+00:00",
+  "last_updated": "2025-08-03T14:25:47.905581+00:00",
   "one_time_keys": [
     {
       "key": "KEY-GXVD-AR6R-GU9U",
@@ -35,6 +35,16 @@
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-03T14:20:03.345750+00:00",
+      "permanent": true
+    },
+    {
+      "key": "KEY-ZTJC-R6M5-XADW",
+      "description": "Ключ для тестирования на другом устройстве",
+      "expiry_date": null,
+      "activated_devices": [],
+      "max_activations": 5,
+      "type": "demo",
+      "created_date": "2025-08-03T14:25:47.905581+00:00",
       "permanent": true
     }
   ],
