@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-03T13:35:24.466174+00:00",
+  "last_updated": "2025-08-03T13:50:44.984516+00:00",
   "one_time_keys": [
     {
       "key": "DEMO-6DSS-SLLJ-G21E",
@@ -173,6 +173,16 @@
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-03T13:35:24.466174+00:00",
+      "permanent": true
+    },
+    {
+      "key": "KEY-4N5Y-37LO-ZHVE",
+      "description": "Тестовый ключ с токеном",
+      "expiry_date": null,
+      "activated_devices": [],
+      "max_activations": 1,
+      "type": "demo",
+      "created_date": "2025-08-03T13:50:44.984516+00:00",
       "permanent": true
     }
   ],
