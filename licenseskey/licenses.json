@@ -19,9 +19,7 @@
       "key": "KEY-3Q1J-Y9LK-WPQK",
       "description": "Тестовый ключ для EXE с диагностикой",
       "expiry_date": null,
-      "activated_devices": [
-        "94bf5828bfd73b98"
-      ],
+      "activated_devices": [],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-03T14:43:04.607623+00:00",
