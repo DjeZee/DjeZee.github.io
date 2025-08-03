@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-03T13:04:48.892972+00:00",
+  "last_updated": "2025-08-03T13:05:27.920174+00:00",
   "one_time_keys": [
     {
       "key": "DEMO-6DSS-SLLJ-G21E",
@@ -113,7 +113,9 @@
       "key": "KEY-3NFO-YHHY-HQ59",
       "description": "Постоянный ключ на 3 активации",
       "expiry_date": null,
-      "activated_devices": [],
+      "activated_devices": [
+        "94bf5828bfd73b98"
+      ],
       "max_activations": 3,
       "type": "demo",
       "created_date": "2025-08-03T13:04:48.892972+00:00",
