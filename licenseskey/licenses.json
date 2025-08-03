@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-03T12:47:39.687624+00:00",
+  "last_updated": "2025-08-03T12:55:14.351755+00:00",
   "one_time_keys": [
     {
       "key": "DEMO-6DSS-SLLJ-G21E",
@@ -35,6 +35,15 @@
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-03T12:47:22.938521+00:00"
+    },
+    {
+      "key": "DEMO-15G8-Y442-8URL",
+      "description": "Ключ навсегда для клиента",
+      "expiry_date": "2125-07-10T12:55:14.351755+00:00",
+      "activated_devices": [],
+      "max_activations": 1,
+      "type": "demo",
+      "created_date": "2025-08-03T12:55:14.351755+00:00"
     }
   ],
   "legacy_keys": {
