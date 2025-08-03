@@ -1,8 +1,19 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-03T14:28:58.095699+00:00",
-  "one_time_keys": [],
+  "last_updated": "2025-08-03T14:31:31.835969+00:00",
+  "one_time_keys": [
+    {
+      "key": "KEY-QPEN-56ME-JGHE",
+      "description": "Ключ для тестирования на другом устройстве",
+      "expiry_date": null,
+      "activated_devices": [],
+      "max_activations": 1,
+      "type": "demo",
+      "created_date": "2025-08-03T14:31:31.835969+00:00",
+      "permanent": true
+    }
+  ],
   "legacy_keys": {
     "valid_keys": [],
     "description": "Старые ключи для обратной совместимости"
