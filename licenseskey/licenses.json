@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-03T14:06:59.558620+00:00",
+  "last_updated": "2025-08-03T14:07:49.304578+00:00",
   "one_time_keys": [
     {
       "key": "DEMO-6DSS-SLLJ-G21E",
@@ -215,6 +215,16 @@
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-03T14:06:59.558620+00:00",
+      "permanent": true
+    },
+    {
+      "key": "KEY-LGO1-Z8XE-INI7",
+      "description": "Тестовый",
+      "expiry_date": null,
+      "activated_devices": [],
+      "max_activations": 1,
+      "type": "demo",
+      "created_date": "2025-08-03T14:07:49.304578+00:00",
       "permanent": true
     }
   ],
