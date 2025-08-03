@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-03T13:05:37.745382+00:00",
+  "last_updated": "2025-08-03T13:11:46.944602+00:00",
   "one_time_keys": [
     {
       "key": "DEMO-6DSS-SLLJ-G21E",
@@ -130,6 +130,16 @@
       "type": "demo",
       "created_date": "2025-08-03T13:05:37.745382+00:00",
       "permanent": false
+    },
+    {
+      "key": "KEY-O02J-X0BB-6Y8N",
+      "description": "Тестовый комп",
+      "expiry_date": null,
+      "activated_devices": [],
+      "max_activations": 1,
+      "type": "demo",
+      "created_date": "2025-08-03T13:11:46.944602+00:00",
+      "permanent": true
     }
   ],
   "legacy_keys": {
