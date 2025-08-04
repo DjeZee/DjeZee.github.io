@@ -1,8 +1,19 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-04T18:20:01.875486+00:00",
-  "one_time_keys": [],
+  "last_updated": "2025-08-04T18:21:22.457751+00:00",
+  "one_time_keys": [
+    {
+      "key": "KEY-AXLF-DPR4-L56B",
+      "description": "Тест",
+      "expiry_date": null,
+      "activated_devices": [],
+      "max_activations": 1,
+      "type": "demo",
+      "created_date": "2025-08-04T18:21:22.457751+00:00",
+      "permanent": true
+    }
+  ],
   "legacy_keys": {
     "valid_keys": [],
     "description": "Старые ключи для обратной совместимости"
