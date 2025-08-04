@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-04T18:56:45.998561+00:00",
+  "last_updated": "2025-08-04T18:58:00.306366+00:00",
   "one_time_keys": [
     {
       "key": "KEY-AXLF-DPR4-L56B",
@@ -13,6 +13,16 @@
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-04T18:21:22.457751+00:00",
+      "permanent": true
+    },
+    {
+      "key": "KEY-L0M5-LFE9-BAJ6",
+      "description": "trtrtr",
+      "expiry_date": null,
+      "activated_devices": [],
+      "max_activations": 1,
+      "type": "demo",
+      "created_date": "2025-08-04T18:58:00.306366+00:00",
       "permanent": true
     }
   ],
