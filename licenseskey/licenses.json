@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-13T10:15:50.354322+00:00",
+  "last_updated": "2025-08-13T10:22:55.569727+00:00",
   "one_time_keys": [
     {
       "key": "KEY-NBZ0-73AD-1W1F",
@@ -43,7 +43,9 @@
       "key": "KEY-USCQ-M6UU-7XVR",
       "description": "Уральская",
       "expiry_date": null,
-      "activated_devices": [],
+      "activated_devices": [
+        "2ce9a5cb33c05f09"
+      ],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-07T03:49:38.931248+00:00",
