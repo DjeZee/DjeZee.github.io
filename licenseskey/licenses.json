@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-13T10:22:55.569727+00:00",
+  "last_updated": "2025-08-13T11:29:49.965670+00:00",
   "one_time_keys": [
     {
       "key": "KEY-NBZ0-73AD-1W1F",
@@ -77,7 +77,9 @@
       "key": "KEY-9DW5-B6ZP-QTPV",
       "description": "г.Тимашевск",
       "expiry_date": null,
-      "activated_devices": [],
+      "activated_devices": [
+        "4eee9dd55275113b"
+      ],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-07T03:50:38.671088+00:00",
