@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-14T10:39:44.525629+00:00",
+  "last_updated": "2025-08-15T06:49:06.182460+00:00",
   "one_time_keys": [
     {
       "key": "KEY-N2Z0-73AD-1W1F",
@@ -115,7 +115,9 @@
       "key": "KEY-A4V9-BZH0-3JS9",
       "description": "г.Пятигорск",
       "expiry_date": null,
-      "activated_devices": [],
+      "activated_devices": [
+        "936ad0d274a26578"
+      ],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-07T03:51:39.113295+00:00",
