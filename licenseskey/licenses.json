@@ -1,13 +1,15 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-08-15T06:49:06.182460+00:00",
+  "last_updated": "2025-09-08T06:21:33.943648+00:00",
   "one_time_keys": [
     {
       "key": "KEY-N2Z0-73AD-1W1F",
       "description": "ntcn",
       "expiry_date": null,
-      "activated_devices": [],
+      "activated_devices": [
+        "da03eaad355b6a7a"
+      ],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-06T12:14:30.808642+00:00",
