@@ -7,9 +7,7 @@
       "key": "KEY-N20-73AD-1W1F",
       "description": "ntcn",
       "expiry_date": null,
-      "activated_devices": [
-        "94bf5828bfd73b98"
-      ],
+      "activated_devices": [],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-06T12:14:30.808642+00:00",
