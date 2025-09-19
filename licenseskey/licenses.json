@@ -7,9 +7,7 @@
       "key": "KEY-N20-73AD-1W1F",
       "description": "ntcn",
       "expiry_date": null,
-      "activated_devices": [
-        "da03eaad355b6a7a"
-      ],
+      "activated_devices": [],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-06T12:14:30.808642+00:00",
@@ -19,9 +17,7 @@
       "key": "KEY-AU8S-KA3R-Y1CK",
       "description": "fjsdjfks",
       "expiry_date": null,
-      "activated_devices": [
-        "3aa79fdaeec3b804"
-      ],
+      "activated_devices": [],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-07T01:54:23.690638+00:00",
