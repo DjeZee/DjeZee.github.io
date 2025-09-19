@@ -135,16 +135,6 @@
       "created_date": "2025-08-07T07:55:33.108363+00:00",
       "permanent": true
     },
-    {
-      "key": "KEY-44FB-SYML-QKSN",
-      "description": "Мой",
-      "expiry_date": null,
-      "activated_devices": [],
-      "max_activations": 1,
-      "type": "demo",
-      "created_date": "2025-08-07T03:49:15.320727+00:00",
-      "permanent": true
-    },
   ],
   "legacy_keys": {
     "valid_keys": [],
