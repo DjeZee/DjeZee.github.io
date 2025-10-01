@@ -36,12 +36,10 @@
       "permanent": true
     },
     {
-      "key": "KEY-USCQ-M6UU-7XVR",
+      "key": "KEY-USCQ-M66U-7XVR",
       "description": "Уральская",
       "expiry_date": null,
-      "activated_devices": [
-        "2ce9a5cb33c05f09"
-      ],
+      "activated_devices": [],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-08-07T03:49:38.931248+00:00",
