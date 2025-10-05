@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-10-01T08:52:29.926602+00:00",
+  "last_updated": "2025-10-05T05:32:15.650941+00:00",
   "one_time_keys": [
     {
       "key": "KEY-N20-73AD-1W1F",
@@ -135,7 +135,9 @@
       "key": "KEY-LAYD-DE9M-MBK3",
       "description": "1",
       "expiry_date": null,
-      "activated_devices": [],
+      "activated_devices": [
+        "94bf5828bfd73b98"
+      ],
       "max_activations": 1,
       "type": "demo",
       "created_date": "2025-09-19T19:26:26.135228+00:00",
