@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "description": "Система одноразовых ключей доступа для Collager",
-  "last_updated": "2025-10-24T11:27:32.680485+00:00",
+  "last_updated": "2025-10-27T16:45:43.607703+00:00",
   "one_time_keys": [
     {
       "key": "KEY-N20-73AD-1W1F",
@@ -126,7 +126,8 @@
       "description": "admin",
       "expiry_date": null,
       "activated_devices": [
-        "0fe82d78feab4dd8"
+        "0fe82d78feab4dd8",
+        "2f9303e8cebfc374"
       ],
       "max_activations": 5,
       "type": "demo",
